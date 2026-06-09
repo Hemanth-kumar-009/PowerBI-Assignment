@@ -1,12 +1,3 @@
-import os
-
-# Create a beautifully formatted markdown content for the README.md file
-readme_content = """# Regional Sales & Target Performance Dashboard
-
-An enterprise-grade, interactive Power BI dashboard designed to deliver comprehensive oversight into global business performance, budget accountability, historical trend analysis, and operational risk mitigation. This dashboard acts as a single source of truth for executives and regional managers to track performance metrics against corporate financial targets and supply chain SLAs.
-
----
-
 ## 🚀 Live Visual Overview
 
 The dashboard layout is structured around an executive reading hierarchy—positioning high-level KPI cards at the top, regional matrix trackers on the left, and deeply granulated trend and risk visualizations on the right.
